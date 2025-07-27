@@ -16,6 +16,8 @@
     <li>🎁 Early access to events & token launches</li>
     <li>👥 Referral earnings from inviting friends</li>
   </ul>
+    <img src="https://s3.eu-west-1.amazonaws.com/genial.ly/6884e21be9bd0d0015362fc2/ceff23cb-c336-427a-a22d-667433b874d2.png" alt="LBank Referral Bonus Banner" width="100%" style="max-width: 800px; height: auto; border-radius: 12px;" />
+
 
   <h2>🪙 How to Use the LBank Referral Code</h2>
   <ol>
